@@ -1,0 +1,2 @@
+# Vertica
+All things Vertica
